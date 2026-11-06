@@ -1,3 +1,5 @@
+![WinTBUtils: Windows taskbar utilities](docs/WinTBUtils.png)
+
 # WinTBUtils
 
 Small command-line utilities for the Windows 11 taskbar. The first one makes the taskbar fully transparent and keeps it that way through Explorer restarts and display changes. It needs no admin rights and no background app beyond one tiny watcher process.
